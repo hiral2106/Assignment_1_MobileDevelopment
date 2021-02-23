@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Dice_Roll</string>
+    <string name="log_Dec">This is my logo</string>
+    <string name="dice_Dec">This is a dice to roll</string>
+    <string name="rollButton">This is a roll button</string>
+    <string name="roll">Roll</string>
+    <string name="computer">COMPUTER</string>
+    <string name="user">USER</string>
+</resources>
